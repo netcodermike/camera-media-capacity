@@ -1,0 +1,12 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "used_gb": 45,
+    "usable_gb": 57.6,
+    "remaining_seconds": 840,
+    "fits": true
+  }
+}
